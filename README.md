@@ -1,7 +1,7 @@
 MySocket
 Backdoor
 
-This tool mmakes you able to commnicate with your SocketListener and gives you an access to target device.
+This tool makes you able to commnicate with your SocketListener and gives you an access to target device.
 
 example usage on windows:
 
